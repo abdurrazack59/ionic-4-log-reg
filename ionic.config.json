@@ -1,0 +1,7 @@
+{
+  "name": "log-reg",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
